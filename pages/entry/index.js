@@ -1,5 +1,4 @@
 import EntryForm from './EntryForm';
-import Form from './Form';
 
 export default function Index() {
   return (
